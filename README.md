@@ -1,6 +1,9 @@
 # my-first-github
-My first project
-This is Ajay. This is my first GitHub project 😊
+# My First GitHub Project
+
+Hello 👋  
 My name is Ajay.
-I am learning GitHub.
-This is my first upload 😊
+
+I am learning how to use GitHub.  
+This repository is my first upload 😊
+
